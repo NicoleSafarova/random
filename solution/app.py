@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 @app.route('/member')
 def index():
-    with open('templates/n.json') as file:
+    with open('templates/n.json', encoding="utf8") as file:
         f = file.read()
         data = json.loads(f)
     n1 = randint(0, len(data) - 1)
