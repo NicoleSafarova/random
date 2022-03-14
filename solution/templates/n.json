@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Ридли Скотт",
+    "photo": "img/photo.png",
+    "profession": [
+      "programmer",
+      "writer"
+    ]
+  },
+  {
+    "name": "Энди Уир",
+    "photo": "img/mars.png",
+    "profession": [
+      "manager",
+      "astrolog",
+      "ship captain"
+    ]
+  }
+]
