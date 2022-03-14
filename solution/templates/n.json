@@ -1,7 +1,7 @@
 [
   {
     "name": "Ридли Скотт",
-    "photo": "img/photo.png",
+    "photo": "/img/photo.png",
     "profession": [
       "programmer",
       "writer"
@@ -9,7 +9,7 @@
   },
   {
     "name": "Энди Уир",
-    "photo": "img/mars.png",
+    "photo": "/img/mars.png",
     "profession": [
       "manager",
       "astrolog",
